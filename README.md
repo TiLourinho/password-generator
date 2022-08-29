@@ -33,6 +33,6 @@ Este projeto foi desenvolvido com [React](https://pt-br.reactjs.org/)
 
 ## Autor
 
-[GitHub Badge](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&link=https://github.com/TiLourinho)
+![GitHub Badge](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&link=https://github.com/TiLourinho)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lourinho-tiago/)
-[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lourinho.tiago@gmail.com)](mailto:lourinho.tiago@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:lourinho.tiago@gmail.com)
