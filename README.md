@@ -9,6 +9,13 @@ Um simples gerador de senhas desenvolvido para dar mais segurança às suas info
 
 ## Demonstração
 
+<p align="center width="40%">
+  <img src="https://github.com/TiLourinho/password-generator/blob/main/public/pg-01.png" alt="Password Generator inicializado">
+</p>
+<p align="center width="40%">
+  <img src="https://github.com/TiLourinho/password-generator/blob/main/public/pg-02.png" alt="Password Generator em funcionamento">
+</p>
+
 ## Como executar
 
 ```bash
